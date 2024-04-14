@@ -8,7 +8,10 @@ a{
     text-decoration: none;
 
 }
-
+h2{
+    font-family:poppins, sans-serif;
+    
+}
 h1{
     font-size: 16px;
     font-weight: bolder;

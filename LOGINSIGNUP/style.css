@@ -1,3 +1,6 @@
 body{
     background-image: url('./WhatsApp\ Image\ 2024-04-14\ at\ 07.20.04.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
